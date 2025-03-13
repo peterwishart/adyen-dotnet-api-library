@@ -5,6 +5,8 @@
     [System.SerializableAttribute]
     public enum PrinterStatusType
     {
+        /// <remarks/>
+        Unknown,
 
         /// <remarks/>
         OK,
